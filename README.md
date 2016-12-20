@@ -17,6 +17,7 @@ returns false if first n+1 points are not unique or non-colinear
 Example:
 
 import trilaterate
+
 pointdata = [[1,[1,0,0,0]],
             [1,[0,1,0,0]],
             [1,[0,0,1,0]],
